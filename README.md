@@ -116,11 +116,7 @@ advanceCars() updates motion each frame.
 
 drawCars() renders cars based on their interpolated positions.
 
-<<<<<<< Updated upstream
-This modular design makes it easy to extend later with audio, time, noise, or user-input interactions.
-=======
-This modular design may make it easy to extend later with audio, time, noise, or user-input interactions.
->>>>>>> Stashed changes
+This modular design would make it easier to extend later with audio, time, noise, or user-input interactions.
 <br>
 
 ### 5. Conclusion
